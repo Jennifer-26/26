@@ -1,0 +1,18 @@
+.navTitle{
+    color:rgb(51, 5, 63);
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+
+.nav-item a {
+    font-size: 16px;
+    color:rgb(51, 5, 63);
+}
+
+.nav-item a:hover {
+    
+    color:rgb(116, 34, 116);
+    
+}
+

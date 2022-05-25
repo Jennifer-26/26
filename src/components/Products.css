@@ -1,0 +1,87 @@
+.Card{
+    background-color: rgb(227, 174, 238);
+    box-sizing: border-box;
+    border-radius:12px ;
+    box-shadow: 0 1px 12px rgb(65, 1, 65);
+    padding: 5px;
+    margin: 30px;
+    width: 310px;
+    height: 640px;
+    text-align: center;
+    margin-bottom: 50px;  
+    
+  
+  
+}
+.titleclass{
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+.author_class{
+    font-size: 15px;
+}
+
+.btn_click{
+    font-family: cursive;
+    padding: 5px;
+    font-size: 20px;
+    background-color:papayawhip;
+    color:indigo;
+    box-shadow:0 1px 12px rgb(65, 1, 65);
+    margin: 3px;
+    cursor: pointer; 
+    margin-bottom: 10px;
+    width: 293px;
+    height: 50px;
+    
+}
+
+.imgclass{
+    padding: 22px;
+    width:300px;
+    height: 400px;
+    
+}
+
+.rate{
+    display:inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.discount{
+    text-decoration-line: line-through;
+    color:rgb(182, 109, 182);
+    font-size: medium;
+    display:inline-block;
+    margin-top: 20px;
+}
+
+.offClass{
+    margin-left: 10px;
+    display:inline-block;
+    font-size: small;
+    color:dimgray;
+}
+
+.wishlist{
+    float: right;
+    padding-left: 10px;
+    /*fill:#772d71;*/
+    color:#772d71;
+    stroke:#27022e;
+    stroke-width:2px;
+    cursor:pointer;
+
+}
+
+.wishlist:hover{
+    fill:indigo;
+}
+
+.star{
+    font-size: 18px;
+    color: rgb(63, 63, 61) !important;
+}
